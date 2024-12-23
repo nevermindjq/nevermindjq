@@ -1,0 +1,37 @@
+/* Icon SVG */
+svg {
+    width: var(--icon-width);
+    height: var(--icon-height);
+    fill: var(--icon-fill);
+}
+
+/* Links */
+a {
+    @apply flex justify-center items-center px-2;
+
+    /* Label */
+    h1, h2, h3, h4, h5, h6, p, span {
+        @apply font-mono flex justify-center items-center text-center text-wrap font-bold;
+
+        color: var(--icon-fill);
+        width: var(--icon-width);
+        height: var(--icon-height);
+    }
+
+    :hover {
+        fill: var(--icon-fill-hover);
+        color: var(--icon-fill-hover);
+        transition: var(--icon-fill-transition), var(--icon-color-transition);
+    }
+}
+
+/* Animations */
+@keyframes fadeInHeight {
+    from { max-height: 0; }
+    to { max-height: 250px }
+}
+
+@keyframes fadeInOpacity {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
