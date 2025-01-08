@@ -1,16 +1,14 @@
-1. Возраст: 17 лет
-2. Стек:
-   - Frontend:
-     - C#: Blazor
-     - JavaScript: Node.js, немного React
-     - General: Tailwind, Bootstrap
-   - Backend:
-     - C#: ASP.NET, Identity Server, Auth0, Entity Framework
-     - Databases: PostgreSQL, MongoDB, Redis
-   - Software:
-     - C#: WPF, WinForms, Avalonia, Telegram.Bot (HTTP), WTelegramClient (MTProto)
-     - Python: Aiogram
-   - Mobile:
-     - C#: MAUI, Xamarin
-     - Dart: Flutter
-   - Tools: Docker, Kubernetes (K8s), Nginx
+- **Frontend**:
+   - C#: Blazor
+   - JavaScript: Node.js, немного React
+   - General: Tailwind, Bootstrap
+- **Backend**:
+   - C#: ASP.NET, Identity Server, Auth0, Entity Framework
+   - Databases: PostgreSQL, MongoDB, Redis
+- **Software**:
+   - C#: WPF, WinForms, Avalonia, Telegram.Bot (HTTP), WTelegramClient (MTProto)
+   - Python: Aiogram
+- **Mobile**:
+   - C#: MAUI, Xamarin
+   - Dart: Flutter
+- **Tools**: Docker, Kubernetes (K8s), Nginx
