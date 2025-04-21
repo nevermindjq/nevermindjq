@@ -3,7 +3,7 @@
    - JavaScript: Node.js, немного React
    - General: Tailwind, Bootstrap
 - **Backend**:
-   - C#: ASP.NET, Identity Server, Auth0, Entity Framework
+   - C#: ASP.NET, Identity Server, Auth0, Entity Framework, SlimMessageBus
    - Databases: PostgreSQL, MongoDB, Redis
 - **Software**:
    - C#: WPF, WinForms, Avalonia, Telegram.Bot (HTTP), WTelegramClient (MTProto)
